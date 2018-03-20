@@ -10,3 +10,6 @@ for j = 1:a-1
     end
 end
 s(a)
+
+
+%ans = 1.3785e+11
